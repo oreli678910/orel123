@@ -6,6 +6,7 @@ function Footer(): JSX.Element {
         <div className="Footer center">
 			<p>All rights reserved to Orel Ovadia &copy;</p>
             <TotalTasks/>
+            {/* Moshe */}
         </div>
     );
 }
